@@ -1,0 +1,48 @@
+C:\Users\ema\Documents\Mis Documentos\TUP\Laboratorio II\Trabajo Practico\LibProyectoPII\LibProyectoPII\bin\Debug\net5.0\LibProyectoPII.deps.json
+C:\Users\ema\Documents\Mis Documentos\TUP\Laboratorio II\Trabajo Practico\LibProyectoPII\LibProyectoPII\bin\Debug\net5.0\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Laboratorio II\Trabajo Practico\LibProyectoPII\LibProyectoPII\bin\Debug\net5.0\ref\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Laboratorio II\Trabajo Practico\LibProyectoPII\LibProyectoPII\bin\Debug\net5.0\LibProyectoPII.pdb
+C:\Users\ema\Documents\Mis Documentos\TUP\Laboratorio II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.csproj.AssemblyReference.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\Laboratorio II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ema\Documents\Mis Documentos\TUP\Laboratorio II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.AssemblyInfoInputs.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\Laboratorio II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.AssemblyInfo.cs
+C:\Users\ema\Documents\Mis Documentos\TUP\Laboratorio II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.csproj.CoreCompileInputs.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\Laboratorio II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Laboratorio II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\ref\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Laboratorio II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.pdb
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.csproj.AssemblyReference.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.AssemblyInfoInputs.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.AssemblyInfo.cs
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.csproj.CoreCompileInputs.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\ref\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\LibProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.pdb
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\LibProyectoPII\LibProyectoPII\bin\Debug\net5.0\LibProyectoPII.deps.json
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\LibProyectoPII\LibProyectoPII\bin\Debug\net5.0\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\LibProyectoPII\LibProyectoPII\bin\Debug\net5.0\ref\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\LibProyectoPII\LibProyectoPII\bin\Debug\net5.0\LibProyectoPII.pdb
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\LibProyectoPII\bin\Debug\net5.0\LibProyectoPII.deps.json
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\LibProyectoPII\bin\Debug\net5.0\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\LibProyectoPII\bin\Debug\net5.0\ref\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\LibProyectoPII\bin\Debug\net5.0\LibProyectoPII.pdb
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.csproj.AssemblyReference.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.AssemblyInfoInputs.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.AssemblyInfo.cs
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.csproj.CoreCompileInputs.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\ref\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.pdb
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\LibProyectoPII\bin\Debug\net5.0\LibProyectoPII.deps.json
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\LibProyectoPII\bin\Debug\net5.0\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\LibProyectoPII\bin\Debug\net5.0\ref\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\LibProyectoPII\bin\Debug\net5.0\LibProyectoPII.pdb
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.csproj.AssemblyReference.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.AssemblyInfoInputs.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.AssemblyInfo.cs
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.csproj.CoreCompileInputs.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\ref\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\LibProyectoPII\obj\Debug\net5.0\LibProyectoPII.pdb

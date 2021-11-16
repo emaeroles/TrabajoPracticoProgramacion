@@ -1,0 +1,152 @@
+C:\Users\Iñaki\Desktop\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.exe
+C:\Users\Iñaki\Desktop\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.deps.json
+C:\Users\Iñaki\Desktop\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.runtimeconfig.json
+C:\Users\Iñaki\Desktop\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.runtimeconfig.dev.json
+C:\Users\Iñaki\Desktop\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.dll
+C:\Users\Iñaki\Desktop\FormsProyectoPII\bin\Debug\net5.0-windows\ref\FormsProyectoPII.dll
+C:\Users\Iñaki\Desktop\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.pdb
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csprojAssemblyReference.cache
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csproj.GenerateResource.cache
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.AssemblyInfoInputs.cache
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.AssemblyInfo.cs
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csproj.CoreCompileInputs.cache
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.dll
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\ref\FormsProyectoPII.dll
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.pdb
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.genruntimeconfig.cache
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.frmLogin.resources
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Properties.Resources.resources
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmPrincipal.resources
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmAcercaDe.resources
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmAltaCamion.resources
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmAltaMaestro.resources
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmAltaUsuario.resources
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmCamiones.resources
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmReportes.resources
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmUsuarios.resources
+C:\Users\Iñaki\Desktop\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmViajes.resources
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csproj.AssemblyReference.cache
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.dll
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\ref\FormsProyectoPII.dll
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.pdb
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.exe
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.deps.json
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.runtimeconfig.json
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.runtimeconfig.dev.json
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.dll
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\bin\Debug\net5.0-windows\ref\FormsProyectoPII.dll
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.pdb
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmAcercaDe.resources
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmAltaCamion.resources
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmAltaMaestro.resources
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmAltaUsuario.resources
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmCamiones.resources
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.frmLogin.resources
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmPrincipal.resources
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmReportes.resources
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmUsuarios.resources
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmViajes.resources
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Properties.Resources.resources
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csproj.GenerateResource.cache
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.AssemblyInfoInputs.cache
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.AssemblyInfo.cs
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csproj.CoreCompileInputs.cache
+C:\Users\Dexus\Desktop\TP PROG 2\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.genruntimeconfig.cache
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csprojAssemblyReference.cache
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmAcercaDe.resources
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmAltaCamion.resources
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmAltaMaestro.resources
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmAltaUsuario.resources
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmCamiones.resources
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.frmLogin.resources
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmPrincipal.resources
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmReportes.resources
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmUsuarios.resources
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Formularios.frmViajes.resources
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Properties.Resources.resources
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csproj.GenerateResource.cache
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.AssemblyInfoInputs.cache
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.AssemblyInfo.cs
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csproj.CoreCompileInputs.cache
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.dll
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\ref\FormsProyectoPII.dll
+C:\Users\Iñaki\Desktop\Proyecto\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.pdb
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csproj.AssemblyReference.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.frmLogin.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Properties.Resources.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csproj.GenerateResource.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.AssemblyInfoInputs.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.AssemblyInfo.cs
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csproj.CoreCompileInputs.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\ref\FormsProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.pdb
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.exe
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.deps.json
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.runtimeconfig.json
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.runtimeconfig.dev.json
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\ref\FormsProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.pdb
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\LibProyectoPII.pdb
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csproj.CopyComplete
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.genruntimeconfig.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmCamion.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmCamiones.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmPrincipal.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmUsuario.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmUsuarios.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmViaje.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmViajes.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmAcercaDe.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\Programacion II\Trabajo Practico\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmReportes.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.exe
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.deps.json
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.runtimeconfig.json
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.runtimeconfig.dev.json
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\ref\FormsProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\FormsProyectoPII.pdb
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\LibProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\bin\Debug\net5.0-windows\LibProyectoPII.pdb
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csproj.AssemblyReference.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmAcercaDe.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmCamion.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmCamiones.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmLogin.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmPrincipal.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmReportes.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmUsuario.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmUsuarios.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmViaje.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.FrmViajes.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.Properties.Resources.resources
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csproj.GenerateResource.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.AssemblyInfoInputs.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.AssemblyInfo.cs
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csproj.CoreCompileInputs.cache
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.csproj.CopyComplete
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\ref\FormsProyectoPII.dll
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.pdb
+C:\Users\ema\Documents\Mis Documentos\TUP\ProyectoPII\FormsProyectoPII\obj\Debug\net5.0-windows\FormsProyectoPII.genruntimeconfig.cache
